@@ -1,7 +1,8 @@
 # Semantic segmentation of outdoor panoramic images
 This repository contains semantically annotated outdoor panoramic image dataset, Pytorch implementation of UNet-stdconv and UNet-equiconv.
 
-Paper link: https://rdcu.be/ct4IC
+You can reach the paper via SharedIt link: https://rdcu.be/ct4IC or via Springer link: http://link.springer.com/article/10.1007/s11760-021-02003-3
+
 
 <p align="center">
 <img src='img/pano-img.png' width=900>
