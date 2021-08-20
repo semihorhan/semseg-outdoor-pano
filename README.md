@@ -29,8 +29,19 @@ Install python requirements:
 <img src='img/equiconv.png' width=300>
 
 ## Dataset
-CVRG-Pano is a semantically annotated outdoor panoramic image dataset. The dataset consists of pixel-level annotated 600 images. We defined 20 semantic classes and grouped them into 7 categories. You can download the dataset with the following link:
+CVRG-Pano is a semantically annotated outdoor panoramic image dataset. The dataset consists of pixel-level annotated 600 images. We defined 20 semantic classes and grouped them into 7 categories as shown in the table below.
 
+| Category| Class Name |
+|---|---|
+| Flat  | Ground, road, sidewalk, parking  |
+| Construction  | Building, wall, fence, bridge |
+| Object  | Pole, trafﬁc light, trafﬁc sign  |
+|  Nature | Vegetation, terrain |
+|  Sky | Sky |
+|  Person | Person  |
+|  Vehicle | Car, truck, bus, motorcycle, bicycle  | 
+
+You can download the dataset with the following link:
 CVRG-Pano: [download](https://drive.google.com/drive/folders/1da-KdQfL4615F5quhrW9e4pFFA0hyrKX?usp=sharing)
 
 ## Models
